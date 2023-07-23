@@ -1,1 +1,5 @@
+1. 데이터 csv파일에서 삭제하는 방법
+
+.drop(['name'], axis=0or1, inplace= True)
+(axis = 0--> 행을 지움, 1 --> 열을 지움)
 
